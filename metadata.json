@@ -1,0 +1,6 @@
+{
+  "name": "StmtScan OCR",
+  "description": "Intelligent bank statement extraction and categorization using Gemini 2.0 Flash Vision. Extract transactions from PDFs and images into structured CSV data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
